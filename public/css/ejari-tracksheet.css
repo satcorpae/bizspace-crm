@@ -1,0 +1,24 @@
+#amount-form {
+    width: 500px;
+}
+
+
+#create-ejari {
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#stats {
+    position: relative;
+    display: flex;
+    gap: 10px;
+}
+
+#search-content {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#show-table {}
